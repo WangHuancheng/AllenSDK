@@ -1,1 +1,0 @@
-visual-behavior-ophys_project_manifest_v0.3.0.json
